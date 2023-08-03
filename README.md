@@ -13,8 +13,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 **EXERCÍCIOS**
 * [Exercício1 - listas/ordenação](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio1.py)
 
+!!!DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)
 
-**DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis))**
 * [Codewars1 - Removing Elements (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars1.py) 
 
 
