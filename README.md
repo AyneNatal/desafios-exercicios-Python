@@ -13,6 +13,10 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 **EXERCÍCIOS**
 * [Exercício1 - listas/ordenação](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio1.py)
 * [Exercício2 - higher order function/closure](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio2.py)
+* [Exercício3 - loops](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio3.py)
+* [Exercício4 - list comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio4.py)
+* [Exercício5 - list comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio5.py)
+* [Exercício6 - loops](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio6.py)
 
 #
 **DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)**
