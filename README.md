@@ -17,12 +17,14 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Exercício4 - list comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio4.py)
 * [Exercício5 - list comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio5.py)
 * [Exercício6 - loops](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio6.py)
+* [Exercício7 - list comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio7.py)
 
 #
 **DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)**
 
 * [Codewars1 - Removing Elements (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars1.py)
 * [Codewars2 - Stringy Strings (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars2.py)
+* [Codewars3 - Find Multiples of a Number](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars3.py)
 
 #
 *Em construção...*
