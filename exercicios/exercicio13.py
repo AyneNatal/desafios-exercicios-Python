@@ -27,9 +27,9 @@ lista_soma2 = [lista_a[i] + lista_b[i] for i in range(len(lista_b))]
 print(lista_soma2)  # out: [2, 4, 6, 8]
 
 
-# com list comprehension, list() e zip():
+# com list comprehension, sum() e zip():
 
-lista_soma3 = [sum(list(i)) for i in list(zip(lista_a, lista_b))]
+lista_soma3 = [sum(i) for i in zip(lista_a, lista_b)]
 print(lista_soma3)  # out: [2, 4, 6, 8]
 
 
