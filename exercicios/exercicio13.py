@@ -31,3 +31,9 @@ print(lista_soma2)  # out: [2, 4, 6, 8]
 
 lista_soma3 = [sum(list(i)) for i in list(zip(lista_a, lista_b))]
 print(lista_soma3)  # out: [2, 4, 6, 8]
+
+
+# com list comprehension e zip():
+
+lista_soma4 = [num1 + num2 for num1, num2 in zip(lista_a, lista_b)]
+print(lista_soma4)  # out: [2, 4, 6, 8]
