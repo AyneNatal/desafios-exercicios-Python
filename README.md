@@ -24,6 +24,8 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Exercício11 - list comprehension (listas aninhadas)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio11.py)
 * [Exercício12 - loop for & lógica](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio12.py)
 * [Exercício13 - listas](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio13.py)
+* [Exercício14 - dictionary comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio14.py)
+* [Exercício15 - dictionary comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio15.py)
 
 #
 **DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)**
