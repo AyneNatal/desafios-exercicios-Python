@@ -26,6 +26,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Exercício13 - listas](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio13.py)
 * [Exercício14 - dictionary comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio14.py)
 * [Exercício15 - dictionary comprehension](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio15.py)
+* [Exercício16 - combinações em listas](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio16.py)
 
 #
 **DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)**
@@ -33,6 +34,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Codewars1 - Removing Elements (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars1.py)
 * [Codewars2 - Stringy Strings (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars2.py)
 * [Codewars3 - Find Multiples of a Number (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars3.py)
+* [Codewars4 - Name on billboard (8 Kyu)](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/codewars/codewars4.py)
 
 #
 *Em construção...*
