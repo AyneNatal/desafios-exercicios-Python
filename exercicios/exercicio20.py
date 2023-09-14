@@ -19,7 +19,8 @@ EXERCÍCIO 20) Funções & Listas
         ]
 
         Crie uma função que retorne o Primeiro número que aparece duplicado, por exemplo, na lista
-        [1,7,2,7,1,5,2,1,3] o primeiro numero que aparece duplicado é o 7.
+        [1,7,2,7,1,5,2,1,3] o primeiro numero que aparece duplicado é o 7. Se não houver número duplicado
+        retorne -1.
 """
 
 lista_de_listas_de_inteiros = [
