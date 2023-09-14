@@ -30,6 +30,7 @@ Desafios de código diversos de alguns sites de Challenges ou de alguns exercíc
 * [Exercício17 - loop while & listas](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio17.py)
 * [Exercício18 - listas, leitura e gravação de arquivos](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio18.py)
 * [Exercício19 - função recursiva](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio19.py)
+* [Exercício20 - funções & listas](https://github.com/AyneNatal/desafios-exercicios-Python/blob/main/exercicios/exercicio20.py)
 
 #
 **DESAFIOS SITE CODEWARS - Os desafios no site vão de 8 kyu (mais fáceis) até 1 Kyu (mais difíceis)**
